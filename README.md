@@ -4,7 +4,6 @@
 - Support my work: https://www.patreon.com/sangvaleap
   
 - [My Twitter](https://twitter.com/sangvaleap)
-- [My Patreon](https://www.patreon.com/sangvaleap)
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
 
 

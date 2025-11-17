@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
                   ),
                 ),
                 Text(
-                  "Sangvaleap",
+                  "Uma Chauhan",
                   style: TextStyle(
                     color: Colors.black87,
                     fontSize: 17,
